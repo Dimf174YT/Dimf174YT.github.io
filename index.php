@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<title>么Dimf174 _YT么</title>
+<meta charset="utf-8">
+<meta name="description" content="么Dimf174 _YT么">
+<meta name="keywords" content="Dimf174, Dimf174_YT, dimf, dimf174, накрутка, dimf174yt, dimf174_YT">
+<meta name="author" content="Dimf174_YT">
+<meta name="copyright" content="Dimf174_YT">
+<meta name="google-site-verification" content="cO1o6sx54cvKxhbnYsABWtl4sYFj9uVKV0DxLKZkWv8"/>
+<?php include 'lib/module/sys-meta.php';?>
+<?php include 'lib/module/sys-css.php';?>
+<?php include 'lib/module/sys-js.php';?>
+<script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
+</head>
+<body>
+<img src="/img/graphics/landing/dualshock3.png" width="1" height="1" alt="Preload"/>
+<?php include 'lib/module/sys-php.php';?>
+<?php include 'lib/module/ui-main-video.php'?>
+<div class="page-con-content landing-con-override">
+		<div class="wavebar-con-container-master">
+			<div class="wavebar-con-wrap">
+			  <div class="wavebar-svg-object"></div>
+			  <div class="wavebar-svg-object"></div>
+			</div>
+		</div>
+	<div class="landing-con-main">
+		<div id="object-particles">
+		</div>
+		<div class="content-con-backdrop darkmode-header">
+		</div>
+		<div class="content-con-outside">
+			<div class="content-con-inside">
+				<div class='landing-con-left content-expand '>
+					<div class="landing-con-container scale-content-txt-1 fade-in-onload">
+						<div class='landing-tx1-heading pulsate'>
+							<h1>么Dimf174 _YT么<br>
+							 YouTube</h1>
+						</div>
+						<div class='landing-tx2-heading'>
+							<p>
+								 Накрутка на социальные сети By 么Dimf174_YT么
+							</p>
+							<div class='landing-btn-container'>
+								<a href="https://www.youtube.com/channel/UCSdQri3XoPo4IW3Ei8AS9rg">
+								<div class='landing-btn-download'>
+									<span>YouTube</span>
+								</div>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class='landing-con-right content-remove '>
+					<div class='landing-img-hero' style="background: url(/img/graphics/landing/dualshock3.png) no-repeat center; background-size: contain;">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
